@@ -1,0 +1,61 @@
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\Pet Store.dll.config
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\Pet Store.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\Pet Store.pdb
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\csc.exe
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\csc.exe.config
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\csc.rsp
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\csi.exe
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\csi.exe.config
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\csi.rsp
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.AppContext.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Console.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Net.Http.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\vbc.exe
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\vbc.exe.config
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\vbc.rsp
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\obj\Debug\Pet Store.csproj.AssemblyReference.cache
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\obj\Debug\Pet Store.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\obj\Debug\Pet Store.csproj.CopyComplete
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\obj\Debug\Pet Store.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\obj\Debug\Pet Store.pdb
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\ZedGraph.dll
+C:\Users\Andra\Documents\Baze de date pe internet\Proiect\Web-Databases\Pet Store\Pet Store\bin\ZedGraph.Web.dll
